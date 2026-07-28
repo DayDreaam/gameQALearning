@@ -1,0 +1,36 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio generated files
+*.csproj
+*.sln
+*.slnx
+*.csproj
+*.csproj.user
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+.vsconfig
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Unity crash reports
+sysinfo.txt
