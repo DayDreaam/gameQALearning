@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 35c2072f7426f934c9329ff0e860cd52
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: f233828d94a7216409aa1d4580202e55
+  - enabled: 1
+    path: Assets/Scenes/Gacha.unity
+    guid: a60f2e057e43cbf42b75200d19c7ea19
+  - enabled: 1
+    path: Assets/Scenes/Friend.unity
+    guid: 20299397cfb6fc74c80069d2975f5606
+  - enabled: 1
+    path: Assets/Scenes/Achievement.unity
+    guid: b9c12a20853f12c4b9eea28305b1fd06
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
